@@ -1,0 +1,28 @@
+{
+  "name": "is-equal-to",
+  "version": "1.1.1",
+  "description": "Determines if x is equal to y",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AprixStudios/is-equal-to.git"
+  },
+  "author": "AprixStudios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AprixStudios/is-equal-to/issues"
+  },
+  "homepage": "https://github.com/AprixStudios/is-equal-to#readme",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "mocha": "^8.1.0"
+  },
+  "keywords": [
+    "is",
+    "equal",
+    "to"
+  ]
+}
