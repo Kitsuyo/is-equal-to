@@ -70,7 +70,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2020 [AprixStudios](https://github.com/AprixStudios).<br />
-This project is [ISC](https://github.com/AprixStudios/is-equal-to/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/AprixStudios/is-equal-to/blob/master/LICENSE) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
